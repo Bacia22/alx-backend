@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 0: Creatng simple route / and intex.html
+'''Task 0: Basic Flask app
 '''
 
 from flask import Flask, render_template
